@@ -1,8 +1,16 @@
-<h1 align="center">Olá 👋, eu me chamo Alexandre Garrido</h1><img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá;<Me+chamo+Alexandre+Garrido>;<Sou+apaixonado+por+PHP+e+XAMPP+:%29>">
-<h3 align="center">Um desenvolvedor front-end apaixonado por CSS3, HTML5, JavaScript e Arduino</h3>
-- 🌱 Atualmente estou estudando **CSS3, HTML5, JavaScript, React, React Native, Arduino, PHP, Java, MYSQL Server e Redes.**
-- 💬 Me peça ajuda com **CSS, HTML,Javascript**
-- 📫 Como me econtrar **alexgarrido843@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá;Me+chamo+Alexandre+Garrido;Sou+apaixonado+por+HTML+,+CSS+e+JavaScript;" marginTop="10">
+<hr>
+<p align="center">
+   - 🌱 Atualmente estou estudando CSS3, HTML5, JavaScript, React, React Native, Arduino, PHP, Java, MYSQL Server e Redes.
+</p>
+<p align="center">
+  - 💬 Me peça ajuda com CSS, HTML,Javascript
+</p>
+<p align="center">
+  - 📫 Como me econtrar alexgarrido843@gmail.com 
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://instagram.com/death_carmine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="death_carmine" height="30" width="40" /></a>
@@ -43,5 +51,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandregarrido01&show_icons=true&locale=en&layout=compact" alt="alexandregarrido01" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandregarrido01&show_icons=true&locale=en" alt="alexandregarrido01" /></p>
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandregarrido01&show_icons=true&locale=en&layout=compact" alt="alexandregarrido01" />
+</p>
+<p>&nbsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandregarrido01&show_icons=true&locale=en" alt="alexandregarrido01" />
+</p>
