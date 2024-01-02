@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá;Me+chamo+Alexandre+Garrido;Sou+apaixonado+por+HTML+,+CSS+e+JavaScript;" marginTop="10">
+<img src="https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá;Me+chamo+Alexandre+Garrido;" marginTop="40">
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Atualmente+estou+estudando;JavaScript;React;ReactNative;Arduino;MySql+servers+e+redes;" marginTop="10">
+<img src="https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Atualmente+estou+estudando;JavaScript;React;ReactNative;Arduino;MySql+servers+e+redes;" marginTop="40">
 <hr>
 
 <p align="center">
