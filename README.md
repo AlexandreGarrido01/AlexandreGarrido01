@@ -1,13 +1,12 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá;Me+chamo+Alexandre+Garrido;Sou+apaixonado+por+HTML+,+CSS+e+JavaScript;" marginTop="10">
 <hr>
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Atualmente+estou+estudando;JavaScript;React;ReactNative;Arduino;MySql+servers+e+redes;" marginTop="10">
+<hr>
 <p align="center">
-   - 🌱 Atualmente estou estudando CSS3, HTML5, JavaScript, React, React Native, Arduino, PHP, Java, MYSQL Server e Redes.
+   - 🌱 Atualmente estou estudando JavaScript, React, React Native, Arduino, PHP, Java, MYSQL Server e Redes.
 </p>
 <p align="center">
-  - 💬 Me peça ajuda com CSS, HTML,Javascript
-</p>
-<p align="center">
-  - 📫 Como me econtrar alexgarrido843@gmail.com 
+  - 📫 Email para contato: alexgarrido843@gmail.com 
 </p>
 
 
