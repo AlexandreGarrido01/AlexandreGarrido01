@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=#EF5B3E&size=35&center=true&vCenter=true&width=1000&lines=Em+constante+aprendizado;O+homem+precisa+de+algo+em+que+acreditar;Fiódor+Dostoiévski;" marginTop="40">
+<img src="https://readme-typing-svg.herokuapp.com/?color=EF5B3E&size=35&center=true&vCenter=true&width=1000&lines=Em+constante+aprendizado;O+homem+precisa+de+algo+em+que+acreditar;Fiódor+Dostoiévski;" marginTop="40">
 <hr>
 
 
