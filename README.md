@@ -1,19 +1,17 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá;Me+chamo+Alexandre+Garrido;" marginTop="40">
-<hr>
-<img src="https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Atualmente+estou+estudando;JavaScript;React;ReactNative;Arduino;MySql+servers+e+redes;" marginTop="40">
-<hr>
 
-<p align="center">
-  - 📫 Email para contato: alexgarrido843@gmail.com 
-</p>
+<hr>
+<img src="https://readme-typing-svg.herokuapp.com/?color=F5330C&size=35&center=true&vCenter=true&width=1000&lines=Em+constante+aprendizado!;O homem precisa de algo em que acreditar.;Fiódor+Dostoiévski;" marginTop="40">
+<hr>
 
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
    <a href="https://www.instagram.com/alexandre_sousa_garrido/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="death_carmine" height="30" width="40" /></a>
 </p>
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
+
+<h3 align="left" >Linguagens e ferramentas:</h3>
+<p align="left" margin="10px"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -43,14 +41,15 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+
+    
   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
-<p>
-   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandregarrido01&show_icons=true&locale=en&layout=compact" alt="alexandregarrido01" />
-</p>
-<p>&nbsp;
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandregarrido01&show_icons=true&locale=en" alt="alexandregarrido01" />
+
+
+<p align="center">
+  --Email para contato: alexgarrido843@gmail.com-- 
 </p>
